@@ -1,16 +1,45 @@
-## Hi there 👋
+#### :wave: Hello! I'm Natalia and I'm a novice DataScientist. I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning course at Skillbox. From March 2024 to the present I have been interning at Doct24.com in the machine learning department.
 
-<!--
-**NataliaLak/NataliaLak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack: 
+<div>
+  <img src="https://api.iconify.design/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/logos/jupyter.svg?width=256&height=256" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/pandas.svg"  title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/scikitlearn.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/logos/pytorch-icon.svg" title="pytorch" alt="pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/logos/seaborn-icon.svg" title="seaborn" alt="seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/matplotlib.svg" title="matplotlib" alt="matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/devicon/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/logos/postgresql.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
+  <img src="https://api.iconify.design/skill-icons/markdown-dark.svg?width=256&height=256" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
+  
+</div>
+
+  
+#### Certificates: 
+
+- [SkillBox Введение в Data Science](https://github.com/NataliaLak/Certificates/blob/main/XCQQL7qVbEyQ1VpKiadoOwkl2GWPBMUM%5B1%5D.png)  
+- [SkillBox Machine Learning Junior](https://github.com/NataliaLak/Certificates/blob/main/70Cndz7hJpKpueoIUdd8KuSaOITdmCGL.png)  
+- [SkillBox Machine Learning Advanced](https://github.com/NataliaLak/Certificates/blob/main/ASqBeWMAqIayrDONprwbPgoaTOTqBNfE%5B1%5D.png)
+- [GeekBrains Разработчик. Аналитик. Data Science](https://github.com/NataliaLak/Certificates/blob/main/20241111_122414%5B1%5D.jpg)
+---
+
+
+#### Practicum projects :  
+
+| № | Name | Description |
+|---|----------|----------|
+| 1 |[Time-series](https://github.com/NataliaLak/time-seriies/tree/main) | Прогнозирование мультивременного ряда |
+| 2 |[Credit-risk-assessment-model](https://github.com/NataliaLak/Credit-risk-assessment-model) | Задача бинарной классификации: построения модели оценки кредитного риска |
+| 3 |[Case-Autodealer](https://github.com/NataliaLak/Case-Autodealer) | Аналитика продаж для автодиллера и визуализации в Power BI |
+| 4 |[Recommendation-system](https://github.com/NataliaLak/Recomendation-system/blob/main/10pract.ipynb) | Гибридный подход в рекомендательных системах |
+| 5 |[CNN-service](https://github.com/NataliaLak/CNN-service/tree/main/practice-cnn) | Задача классификации на основе датасета рукописных символов EMNIST и оформдение модели как сервис |
+
+
+
+
+<div id="header" align="center">
+  <img src=https://i.gifer.com/Jfw2.gif width="200"/>
+</div>

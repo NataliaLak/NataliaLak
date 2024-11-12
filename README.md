@@ -1,4 +1,8 @@
-#### :wave: Hello! I'm Natalia and I'm a novice DataScientist. I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning course at Skillbox. From March 2024 to the present I have been interning at Doct24.com in the machine learning department.
+#### :wave: Hello! I'm Natalia and I'm a novice DataScientist. 
+
+I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning course at Skillbox. 
+
+From March 2024 to the present I have been interning at Doct24.com in the machine learning department.
 
 
 

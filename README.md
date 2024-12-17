@@ -30,6 +30,9 @@ From March 2024 to the present I have been interning at Doct24.com in the machin
 - [GeekBrains Разработчик. Аналитик. Data Science](https://github.com/NataliaLak/Certificates/blob/main/20241111_122414%5B1%5D.jpg)
 ---
 
+#### Hackathons:
+
+- [Норникель - интеллектуальные горизонты]
 
 #### Practicum projects :  
 

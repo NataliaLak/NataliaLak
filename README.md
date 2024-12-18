@@ -2,7 +2,7 @@
 
 I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning course at Skillbox. 
 
-From March 2024 to the present I have been interning at Doct24.com in the machine learning department.
+From March 2024 to the present I have been interning at Alfa Ecosystem in the machine learning department.
 
 
 

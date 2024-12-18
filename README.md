@@ -32,7 +32,7 @@ From March 2024 to the present I have been interning at Doct24.com in the machin
 
 #### Hackathons:
 
-- [Норникель - интеллектуальные горизонты](https://github.com/NataliaLak/Certificates/blob/main/Certificate_2024-12-17_10_28_41.671Z.pdf)
+- [Норникель: интеллектуальные горизонты](https://github.com/NataliaLak/Certificates/blob/main/Certificate_2024-12-17_10_28_41.671Z.pdf)
 
 #### Practicum projects :  
 

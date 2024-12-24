@@ -34,6 +34,7 @@ From March 2024 to the present I have been interning at Alfa Ecosystem in the ma
 #### Hackathons:
 
 - [Норникель: интеллектуальные горизонты](https://github.com/NataliaLak/Certificates/blob/main/Certificate_2024-12-17_10_28_41.671Z.pdf)
+  [Решение](https://github.com/NataliaLak/Hackathon_Nornickel/tree/main)
 
 #### Practicum projects :  
 

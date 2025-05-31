@@ -25,11 +25,11 @@ From March 2024 to the present I have been interning at Alfa Ecosystem in the ma
 #### Certificates: 
 
 - [Stepik. Нейросети и компьютерное зрение](https://github.com/NataliaLak/Certificates/blob/main/stepik-certificate-50352-87d443c.pdf)
-- [SkillBox Machine Learning Advanced](https://github.com/NataliaLak/Certificates/blob/main/ASqBeWMAqIayrDONprwbPgoaTOTqBNfE%5B1%5D.png)  
-- [SkillBox Machine Learning Junior](https://github.com/NataliaLak/Certificates/blob/main/70Cndz7hJpKpueoIUdd8KuSaOITdmCGL.png)  
-- [SkillBox Введение в Data Science](https://github.com/NataliaLak/Certificates/blob/main/XCQQL7qVbEyQ1VpKiadoOwkl2GWPBMUM%5B1%5D.png)  
+- [Skillbox Machine Learning Advanced](https://github.com/NataliaLak/Certificates/blob/main/ASqBeWMAqIayrDONprwbPgoaTOTqBNfE%5B1%5D.png)  
+- [Skillbox Machine Learning Junior](https://github.com/NataliaLak/Certificates/blob/main/70Cndz7hJpKpueoIUdd8KuSaOITdmCGL.png)  
+- [Skillbox Введение в Data Science](https://github.com/NataliaLak/Certificates/blob/main/XCQQL7qVbEyQ1VpKiadoOwkl2GWPBMUM%5B1%5D.png)  
 - [GeekBrains Разработчик. Аналитик. Data Science](https://github.com/NataliaLak/Certificates/blob/main/20241111_122414%5B1%5D.jpg)
-- [SkillBox Deep Learning](https://github.com/NataliaLak/Certificates/blob/main/8gVfF7qFZFXmYZmKknIuTMOXF9KnoFOu.png)
+- [Skillbox Deep Learning](https://github.com/NataliaLak/Certificates/blob/main/8gVfF7qFZFXmYZmKknIuTMOXF9KnoFOu.png)
 ---
 
 #### Hackathons:

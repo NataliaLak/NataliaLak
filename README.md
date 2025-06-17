@@ -30,6 +30,7 @@ From March 2024 to the present I have been interning at Alfa Ecosystem in the ma
 - [Skillbox Введение в Data Science](https://github.com/NataliaLak/Certificates/blob/main/XCQQL7qVbEyQ1VpKiadoOwkl2GWPBMUM%5B1%5D.png)  
 - [GeekBrains Разработчик. Аналитик. Data Science](https://github.com/NataliaLak/Certificates/blob/main/20241111_122414%5B1%5D.jpg)
 - [Skillbox Deep Learning](https://github.com/NataliaLak/Certificates/blob/main/8gVfF7qFZFXmYZmKknIuTMOXF9KnoFOu.png)
+- [Google+Kaggle 5-Day Gen AI Intensive Course](https://github.com/NataliaLak/Certificates/blob/main/Completed%205-Day%20Gen%20AI%20Intensive.png)
 ---
 
 #### Hackathons:

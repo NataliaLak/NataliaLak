@@ -1,8 +1,8 @@
 #### :wave: Hello! I'm Natalia and I'm a novice Data Scientist. 
 
-I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning course at Skillbox. 
+I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning and Deep Learning course at Skillbox. 
 
-From March 2024 to the present I have been interning at Alfa Ecosystem in the machine learning department.
+From March 2024 to the present I have been interning at Alfa Ecosystem in the machine learning department as a Data Scientist.
 
 
 

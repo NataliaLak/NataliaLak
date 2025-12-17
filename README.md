@@ -32,6 +32,7 @@ In addition, I am proficient in Git, MLflow, Airflow, and Docker, which help me 
 - [GeekBrains Разработчик. Аналитик. Data Science](https://github.com/NataliaLak/Certificates/blob/main/20241111_122414%5B1%5D.jpg)
 - [Skillbox Deep Learning](https://github.com/NataliaLak/Certificates/blob/main/8gVfF7qFZFXmYZmKknIuTMOXF9KnoFOu.png)
 - [Google+Kaggle 5-Day Gen AI Intensive Course](https://github.com/NataliaLak/Certificates/blob/main/Completed%205-Day%20Gen%20AI%20Intensive.png)
+- [Stepik. Neural network and text processing](https://github.com/NataliaLak/Certificates/blob/main/2025-12-17.png)
 ---
 
 #### Hackathons:

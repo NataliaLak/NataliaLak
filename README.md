@@ -1,4 +1,4 @@
-#### :wave: Hi, everyone! I'm Natalia and I'm a Data Scientist. 
+#### :wave: Hi, everyone! I'm Natalia and I'm a ML-engineer. 
 
 I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning and Deep Learning course at Skillbox. 
 

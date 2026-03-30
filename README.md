@@ -3,7 +3,7 @@
 I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning and Deep Learning course at Skillbox. 
 
 I have hands-on experience with Python (Pandas, NumPy, Scikit-learn, SciPy, Python, PyTorch, etc.), SQL (MySQL, PostgreSQL), and MS Power BI.
-In addition, I am proficient in Git, MLflow, Airflow, and Docker, which help me manage workflows, track experiments, and deploy machine learning models efficiently.
+In addition, I am proficient in Git, GitHub Actions, MLflow, Airflow, Docker and Microsoft Azure which help me manage workflows, track experiments, and deploy machine learning models efficiently.
 
 
 
@@ -51,7 +51,7 @@ In addition, I am proficient in Git, MLflow, Airflow, and Docker, which help me 
 | 4 |[Recommendation-system](https://github.com/NataliaLak/Recomendation-system/blob/main/10pract.ipynb) | Гибридный подход в рекомендательных системах |
 | 5 |[CNN-service](https://github.com/NataliaLak/CNN-service/tree/main/practice-cnn) | Задача классификации на основе датасета рукописных символов EMNIST и оформдение модели как сервис |
 | 6 |[Генератор кратких саммари текста](https://github.com/NataliaLak/Summarizer_app) | Мини-приложение для генерации кратких и связных саммари из произвольных текстовых документов. Приложение построено с использованием Streamlit для пользовательского интерфейса и модели cointegrated/rut5-base-absum из библиотеки Hugging Face Transformers |
-
+| 7 |[RAG-Agent-Service](https://github.com/NataliaLak/RAG_Project) | A cloud-native RAG (Retrieval-Augmented Generation) system and AI Agents for technical document analysis. Built using a microservice architecture with LangChain, FAISS, and Streamlit, powered by Groq for high-speed inference. The service is containerized with Docker, deployed on Azure Container Apps, and features an automated CI/CD pipeline via GitHub Actions|
 
 
 

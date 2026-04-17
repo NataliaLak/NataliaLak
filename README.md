@@ -8,7 +8,6 @@ In addition, I am proficient in Git, GitHub Actions, MLflow, Airflow, Docker and
 
 
 #### Stack: 
-<p>
   <img src="https://api.iconify.design/logos/python.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://api.iconify.design/logos/jupyter.svg?width=256&height=256" title="jupyter"  alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://api.iconify.design/devicon/pandas.svg"  title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
@@ -19,8 +18,7 @@ In addition, I am proficient in Git, GitHub Actions, MLflow, Airflow, Docker and
   <img src="https://api.iconify.design/devicon/git.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://api.iconify.design/logos/mysql.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
   <img src="https://api.iconify.design/skill-icons/markdown-dark.svg?width=256&height=256" title="markdown" alt="markdown" width="40" height="40"/>&nbsp;
-  
-</p>
+
 
   
 #### Certificates: 

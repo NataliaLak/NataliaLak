@@ -9,16 +9,16 @@ In addition, I am proficient in Git, GitHub Actions, MLflow, Airflow, Docker and
 
 #### Stack: 
 <div align="left">
-  <img src="https://api.iconify.design/logos/python.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos/jupyter.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/devicon/pandas.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/devicon/scikitlearn.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos/pytorch-icon.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos/seaborn-icon.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/devicon/matplotlib.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/devicon/git.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos/mysql.svg" width="40" height="40"/>
-  <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" width="40" height="40"/>
+  <img src="https://api.iconify.design/logos/python.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/logos/jupyter.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/devicon/pandas.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/devicon/scikitlearn.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/logos/pytorch-icon.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/logos/seaborn-icon.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/devicon/matplotlib.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/devicon/git.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/logos/mysql.svg" width="40" height="40" style="display:inline-block;"/>
+  <img src="https://api.iconify.design/skill-icons/markdown-dark.svg" width="40" height="40" style="display:inline-block;"/>
 </div>
 
 

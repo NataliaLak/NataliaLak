@@ -46,6 +46,8 @@ I am passionate about bridging the gap between innovative AI research and robust
 | 5 |[CNN-service](https://github.com/NataliaLak/CNN-service/tree/main/practice-cnn) | Задача классификации на основе датасета рукописных символов EMNIST и оформдение модели как сервис |
 | 6 |[Генератор кратких саммари текста](https://github.com/NataliaLak/Summarizer_app) | Мини-приложение для генерации кратких и связных саммари из произвольных текстовых документов. Приложение построено с использованием Streamlit для пользовательского интерфейса и модели cointegrated/rut5-base-absum из библиотеки Hugging Face Transformers |
 | 7 |[RAG-Agent-Service](https://github.com/NataliaLak/RAG_Project) | A cloud-native RAG (Retrieval-Augmented Generation) system and AI Agents for technical document analysis. Built using a microservice architecture with LangChain, FAISS, and Streamlit, powered by Groq for high-speed inference. The service is containerized with Docker, deployed on Azure Container Apps, and features an automated CI/CD pipeline via GitHub Actions|
+| 8 |[Smart-BOM-Manager](https://github.com/NataliaLak/smart-bom-manager) | An enterprise-grade Intelligent BOM Management platform for processing and analyzing massive hierarchical datasets (650k+ records). Built with FastAPI, ChromaDB, and Streamlit, it features a robust NLP pipeline for data normalization and multilingual enrichment. The system is containerized with Docker, optimized for resource-constrained environments with strict OOM protection, and provides interactive 3D semantic visualizations of the component space|
+
 
 
 

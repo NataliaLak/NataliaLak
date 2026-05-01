@@ -41,7 +41,7 @@ I am passionate about bridging the gap between innovative AI research and robust
 |---|----------|----------|
 | 1 |[Time-series](https://github.com/NataliaLak/time-seriies/tree/main) | Прогнозирование мультивременного ряда |
 | 2 |[Credit-risk-assessment-model](https://github.com/NataliaLak/Credit-risk-assessment-model) | Задача бинарной классификации: построение модели оценки кредитного риска |
-| 3 |[Case-Autodealer](https://github.com/NataliaLak/Case-Autodealer) | Аналитика продаж для автодилера и визуализации в Power BI |
+| 3 |[Case-Autodealer](https://github.com/NataliaLak/Case-Autodealer) | Аналитика продаж для автодилера и визуализация в Power BI |
 | 4 |[Recommendation-system](https://github.com/NataliaLak/Recomendation-system/blob/main/10pract.ipynb) | Гибридный подход в рекомендательных системах |
 | 5 |[CNN-service](https://github.com/NataliaLak/CNN-service/tree/main/practice-cnn) | Задача классификации на основе датасета рукописных символов EMNIST и оформдение модели как сервис |
 | 6 |[Генератор кратких саммари текста](https://github.com/NataliaLak/Summarizer_app) | Мини-приложение для генерации кратких и связных саммари из произвольных текстовых документов. Приложение построено с использованием Streamlit для пользовательского интерфейса и модели cointegrated/rut5-base-absum из библиотеки Hugging Face Transformers |

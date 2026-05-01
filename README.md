@@ -1,9 +1,14 @@
-#### :wave: Hi, everyone! I'm Natalia and I'm a ML-engineer. 
+#### :wave: Hi, everyone! I'm Natalia and I'm an AI & ML Engineer.
 
-I finished a course at GeekBrains specializing in Data Science and an Advanced machine learning and Deep Learning course at Skillbox. 
+I finished a course at GeekBrains specializing in Data Science and an Advanced Machine Learning and Deep Learning course at Skillbox.
+I have hands-on experience with Python and its rich data ecosystem (Pandas, NumPy, SciPy, Statsmodels), building robust models using Scikit-learn, XGBoost, CatBoost, LightGBM, and PyTorch. To achieve maximum performance, I rely on advanced hyperparameter tuning tools like Optuna and Hyperopt, and leverage AutoML frameworks like LightAutoML for efficient model development.
 
-I have hands-on experience with Python (Pandas, NumPy, Scikit-learn, SciPy, Python, PyTorch, etc.), SQL (MySQL, PostgreSQL), and MS Power BI.
-In addition, I am proficient in Git, GitHub Actions, MLflow, Airflow, Docker and Microsoft Azure which help me manage workflows, track experiments, and deploy machine learning models efficiently.
+Beyond traditional ML, I specialize in developing advanced AI architectures, including RAG (Retrieval-Augmented Generation) and multi-agent systems. To build and optimize these solutions, I actively use the Lang ecosystem (LangChain, LangSmith) and vector databases like FAISS and Chroma DB, alongside traditional SQL databases (MySQL, PostgreSQL) and MS Power BI.
+
+For process automation, I leverage Microsoft Copilot Studio and n8n. In addition, I am proficient in MLOps and infrastructure tools such as Git, GitHub Actions for CI/CD, MLflow, Airflow, Docker, Docker Compose, and Microsoft Azure cloud, which help me manage workflows, track experiments, and deploy scalable machine learning models efficiently.
+
+I am passionate about bridging the gap between innovative AI research and robust, production-ready systems. Let’s connect!
+
 
 
 
@@ -13,6 +18,7 @@ In addition, I am proficient in Git, GitHub Actions, MLflow, Airflow, Docker and
   
 #### Certificates: 
 
+- [YADA. Agens Week](https://github.com/NataliaLak/Certificates/blob/main/Agents%20Week%20YADA.pdf)
 - [Stepik. Нейросети и компьютерное зрение](https://github.com/NataliaLak/Certificates/blob/main/stepik-certificate-50352-87d443c.pdf)
 - [Skillbox Machine Learning Advanced](https://github.com/NataliaLak/Certificates/blob/main/ASqBeWMAqIayrDONprwbPgoaTOTqBNfE%5B1%5D.png)  
 - [Skillbox Machine Learning Junior](https://github.com/NataliaLak/Certificates/blob/main/70Cndz7hJpKpueoIUdd8KuSaOITdmCGL.png)  
